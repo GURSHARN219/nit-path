@@ -69,6 +69,12 @@
       "sha256": "2e7fbf05f03768305b5aad2a3b19b4c8fadc37d652d90ade4b91cf1e3b563b86",
       "verified": false
     },
+    "11": {
+      "file": "angs/0011.json",
+      "lineCount": 52,
+      "sha256": "e3f780d1f897cbb877b75048c65c4f08090ea20dca71450cdfcbb9d29e6322eb",
+      "verified": false
+    },
     "12": {
       "file": "angs/0012.json",
       "lineCount": 49,

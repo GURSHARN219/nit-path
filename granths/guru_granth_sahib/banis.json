@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "granthId": "SRI_GURU_GRANTH_SAHIB",
+  "name": "Sri Guru Granth Sahib Ji",
+  "nameGurmukhi": "ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+  "description": "The central eternal Guru of Sikhism containing divine hymns across 1430 Angs",
+  "totalAngs": 1430,
+  "verified": false,
+  "banis": [
+    {
+      "id": "mool_mantar",
+      "name": "Mool Mantar",
+      "nameGurmukhi": "ਮੂਲ ਮੰਤਰ",
+      "startAng": 1,
+      "endAng": 1,
+      "verified": false
+    },
+    {
+      "id": "japji_sahib",
+      "name": "Japji Sahib",
+      "nameGurmukhi": "ਜਪੁਜੀ ਸਾਹਿਬ",
+      "startAng": 1,
+      "endAng": 8,
+      "verified": false
+    },
+    {
+      "id": "so_dar",
+      "name": "So Dar",
+      "nameGurmukhi": "ਸੋ ਦਰੁ",
+      "startAng": 8,
+      "endAng": 10,
+      "verified": false
+    },
+    {
+      "id": "so_purakh",
+      "name": "So Purakh",
+      "nameGurmukhi": "ਸੋ ਪੁਰਖੁ",
+      "startAng": 10,
+      "endAng": 12,
+      "verified": false
+    },
+    {
+      "id": "kirtan_sohila",
+      "name": "Kirtan Sohila",
+      "nameGurmukhi": "ਕੀਰਤਨ ਸੋਹਿਲਾ",
+      "startAng": 12,
+      "endAng": 13,
+      "verified": false
+    },
+    {
+      "id": "bara_maha_majh",
+      "name": "Bara Maha (Majh)",
+      "nameGurmukhi": "ਬਾਰਹ ਮਾਹਾ ਮਾਝ",
+      "startAng": 133,
+      "endAng": 136,
+      "verified": false
+    },
+    {
+      "id": "bawan_akhri",
+      "name": "Bawan Akhri",
+      "nameGurmukhi": "ਬਾਵਨ ਅਖਰੀ",
+      "startAng": 250,
+      "endAng": 262,
+      "verified": false
+    },
+    {
+      "id": "sukhmani_sahib",
+      "name": "Sukhmani Sahib",
+      "nameGurmukhi": "ਸੁਖਮਨੀ ਸਾਹਿਬ",
+      "startAng": 262,
+      "endAng": 296,
+      "verified": false
+    },
+    {
+      "id": "asa_di_var",
+      "name": "Asa Di Var",
+      "nameGurmukhi": "ਆਸਾ ਦੀ ਵਾਰ",
+      "startAng": 462,
+      "endAng": 475,
+      "verified": false
+    },
+    {
+      "id": "anand_sahib",
+      "name": "Anand Sahib",
+      "nameGurmukhi": "ਅਨੰਦੁ ਸਾਹਿਬ",
+      "startAng": 917,
+      "endAng": 922,
+      "verified": false
+    },
+    {
+      "id": "dakhni_oankar",
+      "name": "Dakhni Oankar",
+      "nameGurmukhi": "ਦਖਣੀ ਓਅੰਕਾਰ",
+      "startAng": 929,
+      "endAng": 938,
+      "verified": false
+    },
+    {
+      "id": "sidh_gosht",
+      "name": "Sidh Gosht",
+      "nameGurmukhi": "ਸਿਧ ਗੋਸਟਿ",
+      "startAng": 938,
+      "endAng": 946,
+      "verified": false
+    },
+    {
+      "id": "bara_maha_tukhari",
+      "name": "Bara Maha (Tukhari)",
+      "nameGurmukhi": "ਬਾਰਹ ਮਾਹਾ ਤੁਖਾਰੀ",
+      "startAng": 1107,
+      "endAng": 1117,
+      "verified": false
+    },
+    {
+      "id": "salok_mahalla_9",
+      "name": "Salok Mahalla 9",
+      "nameGurmukhi": "ਸਲੋਕ ਮਹਲਾ ੯",
+      "startAng": 1426,
+      "endAng": 1429,
+      "verified": false
+    },
+    {
+      "id": "mundavani",
+      "name": "Mundavani",
+      "nameGurmukhi": "ਮੁੰਦਾਵਣੀ",
+      "startAng": 1429,
+      "endAng": 1429,
+      "verified": false
+    },
+    {
+      "id": "raagmala",
+      "name": "Raagmala",
+      "nameGurmukhi": "ਰਾਗਮਾਲਾ",
+      "startAng": 1430,
+      "endAng": 1430,
+      "verified": false
+    }
+  ]
+}

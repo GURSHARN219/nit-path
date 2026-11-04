@@ -2,515 +2,11 @@
   "schemaVersion": 1,
   "baniId": "CHAUPAI_SAHIB",
   "contentVersion": 3,
-  "lineCount": 173,
+  "lineCount": 131,
   "lines": [
     {
       "id": "chaupai_sahib_1",
       "lineIndex": 1,
-      "gurmukhi": "ਦੋਹਰਾ ॥",
-      "transliteration": "dhoharaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "dhoharaa ||",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_2",
-      "lineIndex": 2,
-      "gurmukhi": "ਮਹਾ ਕਾਲ ਕੀ ਸਰਨਿ ਜੇ ਪਰੇ ਸੁ ਲਏ ਬਚਾਇ ॥",
-      "transliteration": "mahaa kaal kee saran je pare su le bachai ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_3",
-      "lineIndex": 3,
-      "gurmukhi": "ਔਰ ਨ ਉਪਜਾ ਦੂਸਰ ਜਗ ਭਛਿਯੋ ਸਭੈ ਬਨਾਇ ॥੩੬੬॥",
-      "transliteration": "aauar na upajaa dhoosar jag bhachhiyo sabhai banai ||366||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_4",
-      "lineIndex": 4,
-      "gurmukhi": "ਜੋ ਪੂਜਾ ਅਸਿਕੇਤੁ ਕੀ ਨਿਤ ਪ੍ਰਤਿ ਕਰੈ ਬਨਾਇ ॥",
-      "transliteration": "jo poojaa asiket kee nit prat karai banai ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_5",
-      "lineIndex": 5,
-      "gurmukhi": "ਤਿਨ ਪਰ ਅਪਨੋ ਹਾਥ ਦੈ ਅਸਿਧੁਜ ਲੇਤ ਬਚਾਇ ॥੩੬੭॥",
-      "transliteration": "tin par apano haath dhai asidhuj let bachai ||367||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_6",
-      "lineIndex": 6,
-      "gurmukhi": "ਚੌਪਈ ॥",
-      "transliteration": "chauapiee ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "chauapiee ||",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_7",
-      "lineIndex": 7,
-      "gurmukhi": "ਦੁਸਟ ਦੈਤ ਕਛੁ ਬਾਤ ਨ ਜਾਨੀ ॥",
-      "transliteration": "dhusaT dhait kachh baat na jaanee ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_8",
-      "lineIndex": 8,
-      "gurmukhi": "ਮਹਾ ਕਾਲ ਤਨ ਪੁਨਿ ਰਿਸਿ ਠਾਨੀ ॥",
-      "transliteration": "mahaa kaal tan pun ris Thaanee ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_9",
-      "lineIndex": 9,
-      "gurmukhi": "ਬਲ ਅਪਬਲ ਅਪਨੋ ਨ ਬਿਚਾਰਾ ॥",
-      "transliteration": "bal apabal apano na bichaaraa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_10",
-      "lineIndex": 10,
-      "gurmukhi": "ਗਰਬ ਠਾਨਿ ਜਿਯ ਬਹੁਰਿ ਹੰਕਾਰਾ ॥੩੬੮॥",
-      "transliteration": "garab Thaan jiy bahur ha(n)kaaraa ||368||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_11",
-      "lineIndex": 11,
-      "gurmukhi": "ਰੇ ਰੇ ਕਾਲ ਫੂਲਿ ਜਿਨਿ ਜਾਹੁ ॥",
-      "transliteration": "re re kaal fool jin jaahu ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_12",
-      "lineIndex": 12,
-      "gurmukhi": "ਬਹੁਰਿ ਆਨਿ ਸੰਗ੍ਰਾਮ ਮਚਾਹੁ ॥",
-      "transliteration": "bahur aan sa(n)graam machaahu ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_13",
-      "lineIndex": 13,
-      "gurmukhi": "ਏਕ ਨਿਦਾਨ ਕਰੋ ਰਨ ਮਾਹੀ ॥",
-      "transliteration": "ek nidhaan karo ran maahee ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_14",
-      "lineIndex": 14,
-      "gurmukhi": "ਕੈ ਅਸਿਧੁਜਿ ਕੈ ਦਾਨਵ ਨਾਹੀ ॥੩੬੯॥",
-      "transliteration": "kai asidhuj kai dhaanav naahee ||369||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_15",
-      "lineIndex": 15,
-      "gurmukhi": "ਏਕ ਪਾਵ ਤਜਿ ਜੁਧ ਨ ਭਾਜਾ ॥",
-      "transliteration": "ek paav taj judh na bhaajaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_16",
-      "lineIndex": 16,
-      "gurmukhi": "ਮਹਾਰਾਜ ਦੈਤਨ ਕਾ ਰਾਜਾ ॥",
-      "transliteration": "mahaaraaj dhaitan kaa raajaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_17",
-      "lineIndex": 17,
-      "gurmukhi": "ਆਂਤੌ ਗੀਧ ਗਗਨ ਲੈ ਗਏ ॥",
-      "transliteration": "aa(n)tau geedh gagan lai ge ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_18",
-      "lineIndex": 18,
-      "gurmukhi": "ਬਾਹਤ ਬਿਸਿਖ ਤਊ ਹਠ ਭਏ ॥੩੭੦॥",
-      "transliteration": "baahat bisikh tuoo haTh bhe ||370||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_19",
-      "lineIndex": 19,
-      "gurmukhi": "ਅਸੁਰ ਅਮਿਤ ਰਨ ਬਾਨ ਚਲਾਏ ॥",
-      "transliteration": "asur amit ran baan chalaae ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_20",
-      "lineIndex": 20,
-      "gurmukhi": "ਨਿਰਖਿ ਖੜਗਧੁਜ ਕਾਟਿ ਗਿਰਾਏ ॥",
-      "transliteration": "nirakh khaRagadhuj kaaT giraae ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_21",
-      "lineIndex": 21,
-      "gurmukhi": "ਬੀਸ ਸਹਸ੍ਰ ਅਸੁਰ ਪਰ ਬਾਨਾ ॥",
-      "transliteration": "bees sahasr asur par baanaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_22",
-      "lineIndex": 22,
-      "gurmukhi": "ਸ੍ਰੀ ਅਸਿਧੁਜ ਛਾਡੇ ਬਿਧਿ ਨਾਨਾ ॥੩੭੧॥",
-      "transliteration": "sree asidhuj chhaadde bidh naanaa ||371||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_23",
-      "lineIndex": 23,
-      "gurmukhi": "ਮਹਾ ਕਾਲ ਪੁਨਿ ਜਿਯ ਮੈ ਕੋਪਾ ॥",
-      "transliteration": "mahaa kaal pun jiy mai kopaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_24",
-      "lineIndex": 24,
-      "gurmukhi": "ਧਨੁਖ ਟੰਕੋਰ ਬਹੁਰਿ ਰਨ ਰੋਪਾ ॥",
-      "transliteration": "dhanukh Ta(n)kor bahur ran ropaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_25",
-      "lineIndex": 25,
-      "gurmukhi": "ਏਕ ਬਾਨ ਤੇ ਧੁਜਹਿ ਗਿਰਾਯੋ ॥",
-      "transliteration": "ek baan te dhujeh giraayo ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_26",
-      "lineIndex": 26,
-      "gurmukhi": "ਦੁਤਿਯ ਸਤ੍ਰੁ ਕੋ ਸੀਸ ਉਡਾਯੋ ॥੩੭੨॥",
-      "transliteration": "dhutiy satr ko sees uddaayo ||372||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_27",
-      "lineIndex": 27,
-      "gurmukhi": "ਦੁਹੂੰ ਬਿਸਿਖ ਕਰਿ ਦ੍ਵੈ ਰਥ ਚਕ੍ਰ ॥",
-      "transliteration": "dhuhoo(n) bisikh kar dhavai rath chakr ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_28",
-      "lineIndex": 28,
-      "gurmukhi": "ਕਾਟਿ ਦਏ ਛਿਨ ਇਕ ਮੈ ਬਕ੍ਰ ॥",
-      "transliteration": "kaaT dhe chhin ik mai bakr ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_29",
-      "lineIndex": 29,
-      "gurmukhi": "ਚਾਰਹਿ ਬਾਨ ਚਾਰ ਹੂੰ ਬਾਜਾ ॥",
-      "transliteration": "chaareh baan chaar hoo(n) baajaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_30",
-      "lineIndex": 30,
-      "gurmukhi": "ਮਾਰ ਦਏ ਸਭ ਜਗ ਕੇ ਰਾਜਾ ॥੩੭੩॥",
-      "transliteration": "maar dhe sabh jag ke raajaa ||373||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_31",
-      "lineIndex": 31,
-      "gurmukhi": "ਬਹੁਰਿ ਅਸੁਰ ਕਾ ਕਾਟਸਿ ਮਾਥਾ ॥",
-      "transliteration": "bahur asur kaa kaaTas maathaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_32",
-      "lineIndex": 32,
-      "gurmukhi": "ਸ੍ਰੀ ਅਸਿਕੇਤਿ ਜਗਤ ਕੇ ਨਾਥਾ ॥",
-      "transliteration": "sree asiket jagat ke naathaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_33",
-      "lineIndex": 33,
-      "gurmukhi": "ਦੁਤਿਯ ਬਾਨ ਸੌ ਦੋਊ ਅਰਿ ਕਰ ॥",
-      "transliteration": "dhutiy baan sau dhouoo ar kar ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_34",
-      "lineIndex": 34,
-      "gurmukhi": "ਕਾਟਿ ਦਯੋ ਅਸਿਧੁਜ ਨਰ ਨਾਹਰ ॥੩੭੪॥",
-      "transliteration": "kaaT dhayo asidhuj nar naahar ||374||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_35",
-      "lineIndex": 35,
-      "gurmukhi": "ਪੁਨਿ ਰਾਛਸ ਕਾ ਕਾਟਾ ਸੀਸਾ ॥",
-      "transliteration": "pun raachhas kaa kaaTaa seesaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_36",
-      "lineIndex": 36,
-      "gurmukhi": "ਸ੍ਰੀ ਅਸਿਕੇਤੁ ਜਗਤ ਕੇ ਈਸਾ ॥",
-      "transliteration": "sree asiket jagat ke ieesaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_37",
-      "lineIndex": 37,
-      "gurmukhi": "ਪੁਹਪਨ ਬ੍ਰਿਸਟਿ ਗਗਨ ਤੇ ਭਈ ॥",
-      "transliteration": "puhapan birasaT gagan te bhiee ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_38",
-      "lineIndex": 38,
-      "gurmukhi": "ਸਭਹਿਨ ਆਨਿ ਬਧਾਈ ਦਈ ॥੩੭੫॥",
-      "transliteration": "sabhahin aan badhaiee dhiee ||375||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_39",
-      "lineIndex": 39,
-      "gurmukhi": "ਧੰਨ੍ਯ ਧੰਨ੍ਯ ਲੋਗਨ ਕੇ ਰਾਜਾ ॥",
-      "transliteration": "dha(n)nay dha(n)nay logan ke raajaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_40",
-      "lineIndex": 40,
-      "gurmukhi": "ਦੁਸਟਨ ਦਾਹ ਗਰੀਬ ਨਿਵਾਜਾ ॥",
-      "transliteration": "dhusaTan dhaeh gareeb nivaajaa ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_41",
-      "lineIndex": 41,
-      "gurmukhi": "ਅਖਲ ਭਵਨ ਕੇ ਸਿਰਜਨਹਾਰੇ ॥",
-      "transliteration": "akhal bhavan ke sirajanahaare ||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_42",
-      "lineIndex": 42,
-      "gurmukhi": "ਦਾਸ ਜਾਨਿ ਮੁਹਿ ਲੇਹੁ ਉਬਾਰੇ ॥੩੭੬॥",
-      "transliteration": "dhaas jaan muh leh ubaare ||376||",
-      "translation": "",
-      "punjabiViakhya": "",
-      "source": "benatee chauapiee saahib",
-      "ang": null,
-      "hindi": "",
-      "hindiTransliteration": ""
-    },
-    {
-      "id": "chaupai_sahib_43",
-      "lineIndex": 43,
       "gurmukhi": "ੴ ਸ੍ਰੀ ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਹ ॥",
       "transliteration": "ikOankaar sree vaahiguroo jee kee fateh ||",
       "translation": "",
@@ -521,8 +17,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_44",
-      "lineIndex": 44,
+      "id": "chaupai_sahib_2",
+      "lineIndex": 2,
       "gurmukhi": "ਪਾਤਿਸ਼ਾਹੀ ੧੦ ॥",
       "transliteration": "paatishaahee 10 ||",
       "translation": "",
@@ -533,8 +29,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_45",
-      "lineIndex": 45,
+      "id": "chaupai_sahib_3",
+      "lineIndex": 3,
       "gurmukhi": "ਕਬਿਯੋ ਬਾਚ ਬੇਨਤੀ ॥",
       "transliteration": "kabiyo baach benatee ||",
       "translation": "",
@@ -545,8 +41,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_46",
-      "lineIndex": 46,
+      "id": "chaupai_sahib_4",
+      "lineIndex": 4,
       "gurmukhi": "ਚੌਪਈ ॥",
       "transliteration": "chauapiee ||",
       "translation": "",
@@ -557,10 +53,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_47",
-      "lineIndex": 47,
+      "id": "chaupai_sahib_5",
+      "lineIndex": 5,
       "gurmukhi": "ਹਮਰੀ ਕਰੋ ਹਾਥ ਦੈ ਰੱਛਾ ॥",
-      "transliteration": "hamaree karo haath dhai ra'chhaa ||",
+      "transliteration": "hamaree karo haath dhai ra\u0027chhaa ||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -569,10 +65,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_48",
-      "lineIndex": 48,
+      "id": "chaupai_sahib_6",
+      "lineIndex": 6,
       "gurmukhi": "ਪੂਰਨ ਹੋਇ ਚਿਤ ਕੀ ਇੱਛਾ ॥",
-      "transliteration": "pooran hoi chit kee i'chhaa ||",
+      "transliteration": "pooran hoi chit kee i\u0027chhaa ||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -581,8 +77,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_49",
-      "lineIndex": 49,
+      "id": "chaupai_sahib_7",
+      "lineIndex": 7,
       "gurmukhi": "ਤਵ ਚਰਨਨ ਮਨ ਰਹੈ ਹਮਾਰਾ ॥",
       "transliteration": "tav charanan man rahai hamaaraa ||",
       "translation": "",
@@ -593,8 +89,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_50",
-      "lineIndex": 50,
+      "id": "chaupai_sahib_8",
+      "lineIndex": 8,
       "gurmukhi": "ਅਪਨਾ ਜਾਨ ਕਰੋ ਪ੍ਰਤਿਪਾਰਾ ॥੩੭੭॥",
       "transliteration": "apanaa jaan karo pratipaaraa ||377||",
       "translation": "",
@@ -605,8 +101,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_51",
-      "lineIndex": 51,
+      "id": "chaupai_sahib_9",
+      "lineIndex": 9,
       "gurmukhi": "ਹਮਰੇ ਦੁਸਟ ਸਭੈ ਤੁਮ ਘਾਵਹੁ ॥",
       "transliteration": "hamare dhusaT sabhai tum ghaavahu ||",
       "translation": "",
@@ -617,8 +113,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_52",
-      "lineIndex": 52,
+      "id": "chaupai_sahib_10",
+      "lineIndex": 10,
       "gurmukhi": "ਆਪੁ ਹਾਥ ਦੈ ਮੋਹਿ ਬਚਾਵਹੁ ॥",
       "transliteration": "aap haath dhai moh bachaavahu ||",
       "translation": "",
@@ -629,8 +125,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_53",
-      "lineIndex": 53,
+      "id": "chaupai_sahib_11",
+      "lineIndex": 11,
       "gurmukhi": "ਸੁਖੀ ਬਸੈ ਮੋਰੋ ਪਰਿਵਾਰਾ ॥",
       "transliteration": "sukhee basai moro parivaaraa ||",
       "translation": "",
@@ -641,10 +137,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_54",
-      "lineIndex": 54,
+      "id": "chaupai_sahib_12",
+      "lineIndex": 12,
       "gurmukhi": "ਸੇਵਕ ਸਿੱਖ ਸਭੈ ਕਰਤਾਰਾ ॥੩੭੮॥",
-      "transliteration": "sevak si'kh sabhai karataaraa ||378||",
+      "transliteration": "sevak si\u0027kh sabhai karataaraa ||378||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -653,10 +149,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_55",
-      "lineIndex": 55,
+      "id": "chaupai_sahib_13",
+      "lineIndex": 13,
       "gurmukhi": "ਮੋ ਰੱਛਾ ਨਿਜ ਕਰ ਦੈ ਕਰਿਯੈ ॥",
-      "transliteration": "mo ra'chhaa nij kar dhai kariyai ||",
+      "transliteration": "mo ra\u0027chhaa nij kar dhai kariyai ||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -665,8 +161,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_56",
-      "lineIndex": 56,
+      "id": "chaupai_sahib_14",
+      "lineIndex": 14,
       "gurmukhi": "ਸਭ ਬੈਰਨ ਕੋ ਆਜ ਸੰਘਰਿਯੈ ॥",
       "transliteration": "sabh bairan ko aaj sa(n)ghariyai ||",
       "translation": "",
@@ -677,8 +173,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_57",
-      "lineIndex": 57,
+      "id": "chaupai_sahib_15",
+      "lineIndex": 15,
       "gurmukhi": "ਪੂਰਨ ਹੋਇ ਹਮਾਰੀ ਆਸਾ ॥",
       "transliteration": "pooran hoi hamaaree aasaa ||",
       "translation": "",
@@ -689,8 +185,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_58",
-      "lineIndex": 58,
+      "id": "chaupai_sahib_16",
+      "lineIndex": 16,
       "gurmukhi": "ਤੋਰ ਭਜਨ ਕੀ ਰਹੈ ਪਿਆਸਾ ॥੩੭੯॥",
       "transliteration": "tor bhajan kee rahai piaasaa ||379||",
       "translation": "",
@@ -701,8 +197,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_59",
-      "lineIndex": 59,
+      "id": "chaupai_sahib_17",
+      "lineIndex": 17,
       "gurmukhi": "ਤੁਮਹਿ ਛਾਡਿ ਕੋਈ ਅਵਰ ਨ ਧਿਯਾਊਂ ॥",
       "transliteration": "tumeh chhaadd koiee avar na dhiyaauoo(n) ||",
       "translation": "",
@@ -713,8 +209,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_60",
-      "lineIndex": 60,
+      "id": "chaupai_sahib_18",
+      "lineIndex": 18,
       "gurmukhi": "ਜੋ ਬਰ ਚਹੋਂ ਸੁ ਤੁਮ ਤੇ ਪਾਊਂ ॥",
       "transliteration": "jo bar chaho(n) su tum te paauoo(n) ||",
       "translation": "",
@@ -725,10 +221,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_61",
-      "lineIndex": 61,
+      "id": "chaupai_sahib_19",
+      "lineIndex": 19,
       "gurmukhi": "ਸੇਵਕ ਸਿੱਖ ਹਮਾਰੇ ਤਾਰੀਅਹਿ ॥",
-      "transliteration": "sevak si'kh hamaare taare'eh ||",
+      "transliteration": "sevak si\u0027kh hamaare taare\u0027eh ||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -737,10 +233,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_62",
-      "lineIndex": 62,
+      "id": "chaupai_sahib_20",
+      "lineIndex": 20,
       "gurmukhi": "ਚੁਨਿ ਚੁਨਿ ਸਤ੍ਰ ਹਮਾਰੇ ਮਾਰੀਅਹਿ ॥੩੮੦॥",
-      "transliteration": "chun chun satr hamaare maare'eh ||380||",
+      "transliteration": "chun chun satr hamaare maare\u0027eh ||380||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -749,8 +245,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_63",
-      "lineIndex": 63,
+      "id": "chaupai_sahib_21",
+      "lineIndex": 21,
       "gurmukhi": "ਆਪ ਹਾਥ ਦੈ ਮੁਝੈ ਉਬਰਿਯੈ ॥",
       "transliteration": "aap haath dhai mujhai ubariyai ||",
       "translation": "",
@@ -761,8 +257,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_64",
-      "lineIndex": 64,
+      "id": "chaupai_sahib_22",
+      "lineIndex": 22,
       "gurmukhi": "ਮਰਨ ਕਾਲ ਕਾ ਤ੍ਰਾਸ ਨਿਵਰਿਯੈ ॥",
       "transliteration": "maran kaal kaa traas nivariyai ||",
       "translation": "",
@@ -773,10 +269,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_65",
-      "lineIndex": 65,
+      "id": "chaupai_sahib_23",
+      "lineIndex": 23,
       "gurmukhi": "ਹੂਜੋ ਸਦਾ ਹਮਾਰੇ ਪੱਛਾ ॥",
-      "transliteration": "hoojo sadhaa hamaare pa'chhaa ||",
+      "transliteration": "hoojo sadhaa hamaare pa\u0027chhaa ||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -785,10 +281,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_66",
-      "lineIndex": 66,
+      "id": "chaupai_sahib_24",
+      "lineIndex": 24,
       "gurmukhi": "ਸ੍ਰੀ ਅਸਿਧੁਜ ਜੂ ਕਰਿਯਹੁ ਰੱਛਾ ॥੩੮੧॥",
-      "transliteration": "sree asidhuj joo kariyahu ra'chhaa ||381||",
+      "transliteration": "sree asidhuj joo kariyahu ra\u0027chhaa ||381||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -797,8 +293,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_67",
-      "lineIndex": 67,
+      "id": "chaupai_sahib_25",
+      "lineIndex": 25,
       "gurmukhi": "ਰਾਖਿ ਲੇਹੁ ਮੁਹਿ ਰਾਖਨਹਾਰੇ ॥",
       "transliteration": "raakh leh muh raakhanahaare ||",
       "translation": "",
@@ -809,8 +305,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_68",
-      "lineIndex": 68,
+      "id": "chaupai_sahib_26",
+      "lineIndex": 26,
       "gurmukhi": "ਸਾਹਿਬ ਸੰਤ ਸਹਾਇ ਪਿਯਾਰੇ ॥",
       "transliteration": "saahib sa(n)t sahai piyaare ||",
       "translation": "",
@@ -821,8 +317,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_69",
-      "lineIndex": 69,
+      "id": "chaupai_sahib_27",
+      "lineIndex": 27,
       "gurmukhi": "ਦੀਨ ਬੰਧੁ ਦੁਸਟਨ ਕੇ ਹੰਤਾ ॥",
       "transliteration": "dheen ba(n)dh dhusaTan ke ha(n)taa ||",
       "translation": "",
@@ -833,8 +329,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_70",
-      "lineIndex": 70,
+      "id": "chaupai_sahib_28",
+      "lineIndex": 28,
       "gurmukhi": "ਤੁਮ ਹੋ ਪੁਰੀ ਚਤੁਰ ਦਸ ਕੰਤਾ ॥੩੮੨॥",
       "transliteration": "tum ho puree chatur dhas ka(n)taa ||382||",
       "translation": "",
@@ -845,8 +341,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_71",
-      "lineIndex": 71,
+      "id": "chaupai_sahib_29",
+      "lineIndex": 29,
       "gurmukhi": "ਕਾਲ ਪਾਇ ਬ੍ਰਹਮਾ ਬਪੁ ਧਰਾ ॥",
       "transliteration": "kaal pai brahamaa bap dharaa ||",
       "translation": "",
@@ -857,8 +353,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_72",
-      "lineIndex": 72,
+      "id": "chaupai_sahib_30",
+      "lineIndex": 30,
       "gurmukhi": "ਕਾਲ ਪਾਇ ਸਿਵਜੂ ਅਵਤਰਾ ॥",
       "transliteration": "kaal pai sivajoo avataraa ||",
       "translation": "",
@@ -869,8 +365,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_73",
-      "lineIndex": 73,
+      "id": "chaupai_sahib_31",
+      "lineIndex": 31,
       "gurmukhi": "ਕਾਲ ਪਾਇ ਕਰ ਬਿਸਨੁ ਪ੍ਰਕਾਸਾ ॥",
       "transliteration": "kaal pai kar bisan prakaasaa ||",
       "translation": "",
@@ -881,8 +377,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_74",
-      "lineIndex": 74,
+      "id": "chaupai_sahib_32",
+      "lineIndex": 32,
       "gurmukhi": "ਸਕਲ ਕਾਲ ਕਾ ਕੀਆ ਤਮਾਸਾ ॥੩੮੩॥",
       "transliteration": "sakal kaal kaa keeaa tamaasaa ||383||",
       "translation": "",
@@ -893,8 +389,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_75",
-      "lineIndex": 75,
+      "id": "chaupai_sahib_33",
+      "lineIndex": 33,
       "gurmukhi": "ਜਵਨ ਕਾਲ ਜੋਗੀ ਸਿਵ ਕੀਓ ॥",
       "transliteration": "javan kaal jogee siv keeo ||",
       "translation": "",
@@ -905,8 +401,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_76",
-      "lineIndex": 76,
+      "id": "chaupai_sahib_34",
+      "lineIndex": 34,
       "gurmukhi": "ਬੇਦ ਰਾਜ ਬ੍ਰਹਮਾ ਜੂ ਥੀਓ ॥",
       "transliteration": "bedh raaj brahamaa joo theeo ||",
       "translation": "",
@@ -917,8 +413,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_77",
-      "lineIndex": 77,
+      "id": "chaupai_sahib_35",
+      "lineIndex": 35,
       "gurmukhi": "ਜਵਨ ਕਾਲ ਸਭ ਲੋਕ ਸਵਾਰਾ ॥",
       "transliteration": "javan kaal sabh lok savaaraa ||",
       "translation": "",
@@ -929,8 +425,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_78",
-      "lineIndex": 78,
+      "id": "chaupai_sahib_36",
+      "lineIndex": 36,
       "gurmukhi": "ਨਮਸਕਾਰ ਹੈ ਤਾਹਿ ਹਮਾਰਾ ॥੩੮੪॥",
       "transliteration": "namasakaar hai taeh hamaaraa ||384||",
       "translation": "",
@@ -941,8 +437,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_79",
-      "lineIndex": 79,
+      "id": "chaupai_sahib_37",
+      "lineIndex": 37,
       "gurmukhi": "ਜਵਨ ਕਾਲ ਸਭ ਜਗਤ ਬਨਾਯੋ ॥",
       "transliteration": "javan kaal sabh jagat banaayo ||",
       "translation": "",
@@ -953,10 +449,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_80",
-      "lineIndex": 80,
+      "id": "chaupai_sahib_38",
+      "lineIndex": 38,
       "gurmukhi": "ਦੇਵ ਦੈਤ ਜੱਛਨ ਉਪਜਾਯੋ ॥",
-      "transliteration": "dhev dhait ja'chhan upajaayo ||",
+      "transliteration": "dhev dhait ja\u0027chhan upajaayo ||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -965,8 +461,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_81",
-      "lineIndex": 81,
+      "id": "chaupai_sahib_39",
+      "lineIndex": 39,
       "gurmukhi": "ਆਦਿ ਅੰਤਿ ਏਕੈ ਅਵਤਾਰਾ ॥",
       "transliteration": "aadh a(n)t ekai avataaraa ||",
       "translation": "",
@@ -977,8 +473,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_82",
-      "lineIndex": 82,
+      "id": "chaupai_sahib_40",
+      "lineIndex": 40,
       "gurmukhi": "ਸੋਈ ਗੁਰੂ ਸਮਝਿਯਹੁ ਹਮਾਰਾ ॥੩੮੫॥",
       "transliteration": "soiee guroo samajhiyahu hamaaraa ||385||",
       "translation": "",
@@ -989,8 +485,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_83",
-      "lineIndex": 83,
+      "id": "chaupai_sahib_41",
+      "lineIndex": 41,
       "gurmukhi": "ਨਮਸਕਾਰ ਤਿਸ ਹੀ ਕੋ ਹਮਾਰੀ ॥",
       "transliteration": "namasakaar tis hee ko hamaaree ||",
       "translation": "",
@@ -1001,8 +497,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_84",
-      "lineIndex": 84,
+      "id": "chaupai_sahib_42",
+      "lineIndex": 42,
       "gurmukhi": "ਸਕਲ ਪ੍ਰਜਾ ਜਿਨ ਆਪ ਸਵਾਰੀ ॥",
       "transliteration": "sakal prajaa jin aap savaaree ||",
       "translation": "",
@@ -1013,8 +509,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_85",
-      "lineIndex": 85,
+      "id": "chaupai_sahib_43",
+      "lineIndex": 43,
       "gurmukhi": "ਸਿਵਕਨ ਕੋ ਸਿਵਗੁਨ ਸੁਖ ਦੀਓ ॥",
       "transliteration": "sivakan ko sivagun sukh dheeo ||",
       "translation": "",
@@ -1025,10 +521,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_86",
-      "lineIndex": 86,
+      "id": "chaupai_sahib_44",
+      "lineIndex": 44,
       "gurmukhi": "ਸਤੱ੍ਰੁਨ ਕੋ ਪਲ ਮੋ ਬਧ ਕੀਓ ॥੩੮੬॥",
-      "transliteration": "sata'run ko pal mo badh keeo ||386||",
+      "transliteration": "sata\u0027run ko pal mo badh keeo ||386||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -1037,8 +533,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_87",
-      "lineIndex": 87,
+      "id": "chaupai_sahib_45",
+      "lineIndex": 45,
       "gurmukhi": "ਘਟ ਘਟ ਕੇ ਅੰਤਰ ਕੀ ਜਾਨਤ ॥",
       "transliteration": "ghaT ghaT ke a(n)tar kee jaanat ||",
       "translation": "",
@@ -1049,8 +545,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_88",
-      "lineIndex": 88,
+      "id": "chaupai_sahib_46",
+      "lineIndex": 46,
       "gurmukhi": "ਭਲੇ ਬੁਰੇ ਕੀ ਪੀਰ ਪਛਾਨਤ ॥",
       "transliteration": "bhale bure kee peer pachhaanat ||",
       "translation": "",
@@ -1061,8 +557,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_89",
-      "lineIndex": 89,
+      "id": "chaupai_sahib_47",
+      "lineIndex": 47,
       "gurmukhi": "ਚੀਟੀ ਤੇ ਕੁੰਚਰ ਅਸਥੂਲਾ ॥",
       "transliteration": "cheeTee te ku(n)char asathoolaa ||",
       "translation": "",
@@ -1073,8 +569,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_90",
-      "lineIndex": 90,
+      "id": "chaupai_sahib_48",
+      "lineIndex": 48,
       "gurmukhi": "ਸਭ ਪਰ ਕ੍ਰਿਪਾ ਦ੍ਰਿਸਟਿ ਕਰ ਫੂਲਾ ॥੩੮੭॥",
       "transliteration": "sabh par kirapaa dhirasaT kar foolaa ||387||",
       "translation": "",
@@ -1085,8 +581,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_91",
-      "lineIndex": 91,
+      "id": "chaupai_sahib_49",
+      "lineIndex": 49,
       "gurmukhi": "ਸੰਤਨ ਦੁਖ ਪਾਏ ਤੇ ਦੁਖੀ ॥",
       "transliteration": "sa(n)tan dhukh paae te dhukhee ||",
       "translation": "",
@@ -1097,8 +593,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_92",
-      "lineIndex": 92,
+      "id": "chaupai_sahib_50",
+      "lineIndex": 50,
       "gurmukhi": "ਸੁਖ ਪਾਏ ਸਾਧੁਨ ਕੇ ਸੁਖੀ ॥",
       "transliteration": "sukh paae saadhun ke sukhee ||",
       "translation": "",
@@ -1109,8 +605,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_93",
-      "lineIndex": 93,
+      "id": "chaupai_sahib_51",
+      "lineIndex": 51,
       "gurmukhi": "ਏਕ ਏਕ ਕੀ ਪੀਰ ਪਛਾਨੈਂ ॥",
       "transliteration": "ek ek kee peer pachhaanai(n) ||",
       "translation": "",
@@ -1121,8 +617,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_94",
-      "lineIndex": 94,
+      "id": "chaupai_sahib_52",
+      "lineIndex": 52,
       "gurmukhi": "ਘਟ ਘਟ ਕੇ ਪਟ ਪਟ ਕੀ ਜਾਨੈਂ ॥੩੮੮॥",
       "transliteration": "ghaT ghaT ke paT paT kee jaanai(n) ||388||",
       "translation": "",
@@ -1133,8 +629,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_95",
-      "lineIndex": 95,
+      "id": "chaupai_sahib_53",
+      "lineIndex": 53,
       "gurmukhi": "ਜਬ ਉਦਕਰਖ ਕਰਾ ਕਰਤਾਰਾ ॥",
       "transliteration": "jab udhakarakh karaa karataaraa ||",
       "translation": "",
@@ -1145,8 +641,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_96",
-      "lineIndex": 96,
+      "id": "chaupai_sahib_54",
+      "lineIndex": 54,
       "gurmukhi": "ਪ੍ਰਜਾ ਧਰਤ ਤਬ ਦੇਹ ਅਪਾਰਾ ॥",
       "transliteration": "prajaa dharat tab dheh apaaraa ||",
       "translation": "",
@@ -1157,8 +653,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_97",
-      "lineIndex": 97,
+      "id": "chaupai_sahib_55",
+      "lineIndex": 55,
       "gurmukhi": "ਜਬ ਆਕਰਖ ਕਰਤ ਹੋ ਕਬਹੂੰ ॥",
       "transliteration": "jab aakarakh karat ho kabahoo(n) ||",
       "translation": "",
@@ -1169,8 +665,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_98",
-      "lineIndex": 98,
+      "id": "chaupai_sahib_56",
+      "lineIndex": 56,
       "gurmukhi": "ਤੁਮ ਮੈ ਮਿਲਤ ਦੇਹ ਧਰ ਸਭਹੂੰ ॥੩੮੯॥",
       "transliteration": "tum mai milat dheh dhar sabhahoo(n) ||389||",
       "translation": "",
@@ -1181,8 +677,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_99",
-      "lineIndex": 99,
+      "id": "chaupai_sahib_57",
+      "lineIndex": 57,
       "gurmukhi": "ਜੇਤੇ ਬਦਨ ਸ੍ਰਿਸਟਿ ਸਭ ਧਾਰੈ ॥",
       "transliteration": "jete badhan sirasaT sabh dhaarai ||",
       "translation": "",
@@ -1193,8 +689,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_100",
-      "lineIndex": 100,
+      "id": "chaupai_sahib_58",
+      "lineIndex": 58,
       "gurmukhi": "ਆਪੁ ਆਪਨੀ ਬੂਝ ਉਚਾਰੈ ॥",
       "transliteration": "aap aapanee boojh uchaarai ||",
       "translation": "",
@@ -1205,8 +701,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_101",
-      "lineIndex": 101,
+      "id": "chaupai_sahib_59",
+      "lineIndex": 59,
       "gurmukhi": "ਤੁਮ ਸਭਹੀ ਤੇ ਰਹਤ ਨਿਰਾਲਮ ॥",
       "transliteration": "tum sabhahee te rahat niraalam ||",
       "translation": "",
@@ -1217,8 +713,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_102",
-      "lineIndex": 102,
+      "id": "chaupai_sahib_60",
+      "lineIndex": 60,
       "gurmukhi": "ਜਾਨਤ ਬੇਦ ਭੇਦ ਅਰ ਆਲਮ ॥੩੯੦॥",
       "transliteration": "jaanat bedh bhedh ar aalam ||390||",
       "translation": "",
@@ -1229,8 +725,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_103",
-      "lineIndex": 103,
+      "id": "chaupai_sahib_61",
+      "lineIndex": 61,
       "gurmukhi": "ਨਿਰੰਕਾਰ ਨ੍ਰਿਬਿਕਾਰ ਨਿਰਲੰਭ ॥",
       "transliteration": "nira(n)kaar nirabikaar nirala(n)bh ||",
       "translation": "",
@@ -1241,8 +737,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_104",
-      "lineIndex": 104,
+      "id": "chaupai_sahib_62",
+      "lineIndex": 62,
       "gurmukhi": "ਆਦਿ ਅਨੀਲ ਅਨਾਦਿ ਅਸੰਭ ॥",
       "transliteration": "aadh aneel anaadh asa(n)bh ||",
       "translation": "",
@@ -1253,8 +749,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_105",
-      "lineIndex": 105,
+      "id": "chaupai_sahib_63",
+      "lineIndex": 63,
       "gurmukhi": "ਤਾਕਾ ਮੂੜ੍ਹ ਉਚਾਰਤ ਭੇਦਾ ॥",
       "transliteration": "taakaa mooRh uchaarat bhedhaa ||",
       "translation": "",
@@ -1265,8 +761,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_106",
-      "lineIndex": 106,
+      "id": "chaupai_sahib_64",
+      "lineIndex": 64,
       "gurmukhi": "ਜਾ ਕੋ ਭੇਵ ਨ ਪਾਵਤ ਬੇਦਾ ॥੩੯੧॥",
       "transliteration": "jaa ko bhev na paavat bedhaa ||391||",
       "translation": "",
@@ -1277,8 +773,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_107",
-      "lineIndex": 107,
+      "id": "chaupai_sahib_65",
+      "lineIndex": 65,
       "gurmukhi": "ਤਾ ਕੋ ਕਰਿ ਪਾਹਨ ਅਨੁਮਾਨਤ ॥",
       "transliteration": "taa ko kar paahan anumaanat ||",
       "translation": "",
@@ -1289,8 +785,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_108",
-      "lineIndex": 108,
+      "id": "chaupai_sahib_66",
+      "lineIndex": 66,
       "gurmukhi": "ਮਹਾ ਮੂੜ੍ਹ ਕਛੁ ਭੇਦ ਨ ਜਾਨਤ ॥",
       "transliteration": "mahaa mooRh kachh bhedh na jaanat ||",
       "translation": "",
@@ -1301,8 +797,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_109",
-      "lineIndex": 109,
+      "id": "chaupai_sahib_67",
+      "lineIndex": 67,
       "gurmukhi": "ਮਹਾਦੇਵ ਕੋ ਕਹਤ ਸਦਾ ਸਿਵ ॥",
       "transliteration": "mahaadhev ko kahat sadhaa siv ||",
       "translation": "",
@@ -1313,8 +809,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_110",
-      "lineIndex": 110,
+      "id": "chaupai_sahib_68",
+      "lineIndex": 68,
       "gurmukhi": "ਨਿਰੰਕਾਰ ਕਾ ਚੀਨਤ ਨਹਿ ਭਿਵ ॥੩੯੨॥",
       "transliteration": "nira(n)kaar kaa cheenat neh bhiv ||392||",
       "translation": "",
@@ -1325,8 +821,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_111",
-      "lineIndex": 111,
+      "id": "chaupai_sahib_69",
+      "lineIndex": 69,
       "gurmukhi": "ਆਪੁ ਆਪਨੀ ਬੁਧਿ ਹੈ ਜੇਤੀ ॥",
       "transliteration": "aap aapanee budh hai jetee ||",
       "translation": "",
@@ -1337,8 +833,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_112",
-      "lineIndex": 112,
+      "id": "chaupai_sahib_70",
+      "lineIndex": 70,
       "gurmukhi": "ਬਰਨਤ ਭਿੰਨ ਭਿੰਨ ਤੁਹਿ ਤੇਤੀ ॥",
       "transliteration": "baranat bhi(n)n bhi(n)n tuh tetee ||",
       "translation": "",
@@ -1349,8 +845,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_113",
-      "lineIndex": 113,
+      "id": "chaupai_sahib_71",
+      "lineIndex": 71,
       "gurmukhi": "ਤੁਮਰਾ ਲਖਾ ਨ ਜਾਇ ਪਸਾਰਾ ॥",
       "transliteration": "tumaraa lakhaa na jai pasaaraa ||",
       "translation": "",
@@ -1361,8 +857,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_114",
-      "lineIndex": 114,
+      "id": "chaupai_sahib_72",
+      "lineIndex": 72,
       "gurmukhi": "ਕਿਹ ਬਿਧਿ ਸਜਾ ਪ੍ਰਥਮ ਸੰਸਾਰਾ ॥੩੯੩॥",
       "transliteration": "keh bidh sajaa pratham sa(n)saaraa ||393||",
       "translation": "",
@@ -1373,8 +869,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_115",
-      "lineIndex": 115,
+      "id": "chaupai_sahib_73",
+      "lineIndex": 73,
       "gurmukhi": "ਏਕੈ ਰੂਪ ਅਨੂਪ ਸਰੂਪਾ ॥",
       "transliteration": "ekai roop anoop saroopaa ||",
       "translation": "",
@@ -1385,8 +881,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_116",
-      "lineIndex": 116,
+      "id": "chaupai_sahib_74",
+      "lineIndex": 74,
       "gurmukhi": "ਰੰਕ ਭਯੋ ਰਾਵ ਕਹੀ ਭੂਪਾ ॥",
       "transliteration": "ra(n)k bhayo raav kahee bhoopaa ||",
       "translation": "",
@@ -1397,8 +893,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_117",
-      "lineIndex": 117,
+      "id": "chaupai_sahib_75",
+      "lineIndex": 75,
       "gurmukhi": "ਅੰਡਜ ਜੇਰਜ ਸੇਤਜ ਕੀਨੀ ॥",
       "transliteration": "a(n)ddaj jeraj setaj keenee ||",
       "translation": "",
@@ -1409,8 +905,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_118",
-      "lineIndex": 118,
+      "id": "chaupai_sahib_76",
+      "lineIndex": 76,
       "gurmukhi": "ਉਤਭੁਜ ਖਾਨਿ ਬਹੁਰ ਰਚਿ ਦੀਨੀ ॥੩੯੪॥",
       "transliteration": "autabhuj khaan bahur rach dheenee ||394||",
       "translation": "",
@@ -1421,8 +917,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_119",
-      "lineIndex": 119,
+      "id": "chaupai_sahib_77",
+      "lineIndex": 77,
       "gurmukhi": "ਕਹੂੰ ਫੂਲ ਰਾਜਾ ਹ੍ਵੈ ਬੈਠਾ ॥",
       "transliteration": "kahoo(n) fool raajaa havai baiThaa ||",
       "translation": "",
@@ -1433,8 +929,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_120",
-      "lineIndex": 120,
+      "id": "chaupai_sahib_78",
+      "lineIndex": 78,
       "gurmukhi": "ਕਹੂੰ ਸਿਮਟਿ ਭ੍ਯਿੋ ਸੰਕਰ ਇਕੈਠਾ ॥",
       "transliteration": "kahoo(n) simaT bhiyo sa(n)kar ikaiThaa ||",
       "translation": "",
@@ -1445,8 +941,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_121",
-      "lineIndex": 121,
+      "id": "chaupai_sahib_79",
+      "lineIndex": 79,
       "gurmukhi": "ਸਗਰੀ ਸ੍ਰਿਸਟਿ ਦਿਖਾਇ ਅਚੰਭਵ ॥",
       "transliteration": "sagaree sirasaT dhikhai acha(n)bhav ||",
       "translation": "",
@@ -1457,8 +953,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_122",
-      "lineIndex": 122,
+      "id": "chaupai_sahib_80",
+      "lineIndex": 80,
       "gurmukhi": "ਆਦਿ ਜੁਗਾਦਿ ਸਰੂਪ ਸੁਯੰਭਵ ॥੩੯੫॥",
       "transliteration": "aadh jugaadh saroop suya(n)bhav ||395||",
       "translation": "",
@@ -1469,10 +965,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_123",
-      "lineIndex": 123,
+      "id": "chaupai_sahib_81",
+      "lineIndex": 81,
       "gurmukhi": "ਅਬ ਰੱਛਾ ਮੇਰੀ ਤੁਮ ਕਰੋ ॥",
-      "transliteration": "ab ra'chhaa meree tum karo ||",
+      "transliteration": "ab ra\u0027chhaa meree tum karo ||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -1481,10 +977,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_124",
-      "lineIndex": 124,
+      "id": "chaupai_sahib_82",
+      "lineIndex": 82,
       "gurmukhi": "ਸਿੱਖ ਉਬਾਰਿ ਅਸਿੱਖ ਸੰਘਰੋ ॥",
-      "transliteration": "si'kh ubaar asi'kh sa(n)gharo ||",
+      "transliteration": "si\u0027kh ubaar asi\u0027kh sa(n)gharo ||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -1493,8 +989,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_125",
-      "lineIndex": 125,
+      "id": "chaupai_sahib_83",
+      "lineIndex": 83,
       "gurmukhi": "ਦੁਸ਼ਟ ਜਿਤੇ ਉਠਵਤ ਉਤਪਾਤਾ ॥",
       "transliteration": "dhushaT jite uThavat utapaataa ||",
       "translation": "",
@@ -1505,8 +1001,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_126",
-      "lineIndex": 126,
+      "id": "chaupai_sahib_84",
+      "lineIndex": 84,
       "gurmukhi": "ਸਕਲ ਮਲੇਛ ਕਰੋ ਰਣ ਘਾਤਾ ॥੩੯੬॥",
       "transliteration": "sakal malechh karo ran ghaataa ||396||",
       "translation": "",
@@ -1517,8 +1013,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_127",
-      "lineIndex": 127,
+      "id": "chaupai_sahib_85",
+      "lineIndex": 85,
       "gurmukhi": "ਜੇ ਅਸਿਧੁਜ ਤਵ ਸਰਨੀ ਪਰੇ ॥",
       "transliteration": "je asidhuj tav saranee pare ||",
       "translation": "",
@@ -1529,8 +1025,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_128",
-      "lineIndex": 128,
+      "id": "chaupai_sahib_86",
+      "lineIndex": 86,
       "gurmukhi": "ਤਿਨ ਕੇ ਦੁਸ਼ਟ ਦੁਖਿਤ ਹ੍ਵੈ ਮਰੇ ॥",
       "transliteration": "tin ke dhushaT dhukhit havai mare ||",
       "translation": "",
@@ -1541,8 +1037,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_129",
-      "lineIndex": 129,
+      "id": "chaupai_sahib_87",
+      "lineIndex": 87,
       "gurmukhi": "ਪੁਰਖ ਜਵਨ ਪਗ ਪਰੇ ਤਿਹਾਰੇ ॥",
       "transliteration": "purakh javan pag pare tihaare ||",
       "translation": "",
@@ -1553,8 +1049,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_130",
-      "lineIndex": 130,
+      "id": "chaupai_sahib_88",
+      "lineIndex": 88,
       "gurmukhi": "ਤਿਨ ਕੇ ਤੁਮ ਸੰਕਟ ਸਭ ਟਾਰੇ ॥੩੯੭॥",
       "transliteration": "tin ke tum sa(n)kaT sabh Taare ||397||",
       "translation": "",
@@ -1565,8 +1061,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_131",
-      "lineIndex": 131,
+      "id": "chaupai_sahib_89",
+      "lineIndex": 89,
       "gurmukhi": "ਜੋ ਕਲਿ ਕੋ ਇਕ ਬਾਰ ਧਿਐ ਹੈ ॥",
       "transliteration": "jo kal ko ik baar dhiaai hai ||",
       "translation": "",
@@ -1577,8 +1073,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_132",
-      "lineIndex": 132,
+      "id": "chaupai_sahib_90",
+      "lineIndex": 90,
       "gurmukhi": "ਤਾ ਕੇ ਕਾਲ ਨਿਕਟਿ ਨਹਿ ਐਹੈ ॥",
       "transliteration": "taa ke kaal nikaT neh aaihai ||",
       "translation": "",
@@ -1589,10 +1085,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_133",
-      "lineIndex": 133,
+      "id": "chaupai_sahib_91",
+      "lineIndex": 91,
       "gurmukhi": "ਰੱਛਾ ਹੋਇ ਤਾਹਿ ਸਭ ਕਾਲਾ ॥",
-      "transliteration": "ra'chhaa hoi taeh sabh kaalaa ||",
+      "transliteration": "ra\u0027chhaa hoi taeh sabh kaalaa ||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -1601,8 +1097,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_134",
-      "lineIndex": 134,
+      "id": "chaupai_sahib_92",
+      "lineIndex": 92,
       "gurmukhi": "ਦੁਸਟ ਅਰਿਸਟ ਟਰੇਂ ਤਤਕਾਲਾ ॥੩੯੮॥",
       "transliteration": "dhusaT arisaT Tare(n) tatakaalaa ||398||",
       "translation": "",
@@ -1613,8 +1109,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_135",
-      "lineIndex": 135,
+      "id": "chaupai_sahib_93",
+      "lineIndex": 93,
       "gurmukhi": "ਕ੍ਰਿਪਾ ਦ੍ਰਿਸਟਿ ਤਨ ਜਾਹਿ ਨਿਹਰਿਹੋ ॥",
       "transliteration": "kirapaa dhirasaT tan jaeh nihariho ||",
       "translation": "",
@@ -1625,8 +1121,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_136",
-      "lineIndex": 136,
+      "id": "chaupai_sahib_94",
+      "lineIndex": 94,
       "gurmukhi": "ਤਾਕੇ ਤਾਪ ਤਨਕ ਮੋ ਹਰਿਹੋ ॥",
       "transliteration": "taake taap tanak mo hariho ||",
       "translation": "",
@@ -1637,10 +1133,10 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_137",
-      "lineIndex": 137,
+      "id": "chaupai_sahib_95",
+      "lineIndex": 95,
       "gurmukhi": "ਰਿੱਧਿ ਸਿੱਧਿ ਘਰ ਮੋ ਸਭ ਹੋਈ ॥",
-      "transliteration": "ri'dh si'dh ghar mo sabh hoiee ||",
+      "transliteration": "ri\u0027dh si\u0027dh ghar mo sabh hoiee ||",
       "translation": "",
       "punjabiViakhya": "",
       "source": "benatee chauapiee saahib",
@@ -1649,8 +1145,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_138",
-      "lineIndex": 138,
+      "id": "chaupai_sahib_96",
+      "lineIndex": 96,
       "gurmukhi": "ਦੁਸ਼ਟ ਛਾਹ ਛ੍ਵੈ ਸਕੈ ਨ ਕੋਈ ॥੩੯੯॥",
       "transliteration": "dhushaT chhaeh chhavai sakai na koiee ||399||",
       "translation": "",
@@ -1661,8 +1157,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_139",
-      "lineIndex": 139,
+      "id": "chaupai_sahib_97",
+      "lineIndex": 97,
       "gurmukhi": "ਏਕ ਬਾਰ ਜਿਨ ਤੁਮੈ ਸੰਭਾਰਾ ॥",
       "transliteration": "ek baar jin tumai sa(n)bhaaraa ||",
       "translation": "",
@@ -1673,8 +1169,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_140",
-      "lineIndex": 140,
+      "id": "chaupai_sahib_98",
+      "lineIndex": 98,
       "gurmukhi": "ਕਾਲ ਫਾਸ ਤੇ ਤਾਹਿ ਉਬਾਰਾ ॥",
       "transliteration": "kaal faas te taeh ubaaraa ||",
       "translation": "",
@@ -1685,8 +1181,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_141",
-      "lineIndex": 141,
+      "id": "chaupai_sahib_99",
+      "lineIndex": 99,
       "gurmukhi": "ਜਿਨ ਨਰ ਨਾਮ ਤਿਹਾਰੋ ਕਹਾ ॥",
       "transliteration": "jin nar naam tihaaro kahaa ||",
       "translation": "",
@@ -1697,8 +1193,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_142",
-      "lineIndex": 142,
+      "id": "chaupai_sahib_100",
+      "lineIndex": 100,
       "gurmukhi": "ਦਾਰਿਦ ਦੁਸਟ ਦੋਖ ਤੇ ਰਹਾ ॥੪੦੦॥",
       "transliteration": "dhaaridh dhusaT dhokh te rahaa ||400||",
       "translation": "",
@@ -1709,8 +1205,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_143",
-      "lineIndex": 143,
+      "id": "chaupai_sahib_101",
+      "lineIndex": 101,
       "gurmukhi": "ਖੜਗ ਕੇਤ ਮੈ ਸਰਣਿ ਤਿਹਾਰੀ ॥",
       "transliteration": "khaRag ket mai saran tihaaree ||",
       "translation": "",
@@ -1721,8 +1217,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_144",
-      "lineIndex": 144,
+      "id": "chaupai_sahib_102",
+      "lineIndex": 102,
       "gurmukhi": "ਆਪ ਹਾਥ ਦੈ ਲੇਹੁ ਉਬਾਰੀ ॥",
       "transliteration": "aap haath dhai leh ubaaree ||",
       "translation": "",
@@ -1733,8 +1229,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_145",
-      "lineIndex": 145,
+      "id": "chaupai_sahib_103",
+      "lineIndex": 103,
       "gurmukhi": "ਸਰਬ ਠੌਰ ਮੋ ਹੋਹੁ ਸਹਾਈ ॥",
       "transliteration": "sarab Thauar mo hoh sahaiee ||",
       "translation": "",
@@ -1745,8 +1241,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_146",
-      "lineIndex": 146,
+      "id": "chaupai_sahib_104",
+      "lineIndex": 104,
       "gurmukhi": "ਦੁਸਟ ਦੋਖ ਤੇ ਲੇਹੁ ਬਚਾਈ ॥੪੦੧॥",
       "transliteration": "dhusaT dhokh te leh bachaiee ||401||",
       "translation": "",
@@ -1757,8 +1253,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_147",
-      "lineIndex": 147,
+      "id": "chaupai_sahib_105",
+      "lineIndex": 105,
       "gurmukhi": "ਕ੍ਰਿਪਾ ਕਰੀ ਹਮ ਪਰ ਜਗਮਾਤਾ ॥",
       "transliteration": "kirapaa karee ham par jagamaataa ||",
       "translation": "",
@@ -1769,8 +1265,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_148",
-      "lineIndex": 148,
+      "id": "chaupai_sahib_106",
+      "lineIndex": 106,
       "gurmukhi": "ਗ੍ਰੰਥ ਕਰਾ ਪੂਰਨ ਸੁਭਰਾਤਾ ॥",
       "transliteration": "gra(n)th karaa pooran subharaataa ||",
       "translation": "",
@@ -1781,8 +1277,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_149",
-      "lineIndex": 149,
+      "id": "chaupai_sahib_107",
+      "lineIndex": 107,
       "gurmukhi": "ਕਿਲਬਿਖ ਸਕਲ ਦੇਹ ਕੋ ਹਰਤਾ ॥",
       "transliteration": "kilabikh sakal dheh ko harataa ||",
       "translation": "",
@@ -1793,8 +1289,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_150",
-      "lineIndex": 150,
+      "id": "chaupai_sahib_108",
+      "lineIndex": 108,
       "gurmukhi": "ਦੁਸਟ ਦੋਖਿਯਨ ਕੋ ਛੈ ਕਰਤਾ ॥੪੦੨॥",
       "transliteration": "dhusaT dhokhiyan ko chhai karataa ||402||",
       "translation": "",
@@ -1805,8 +1301,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_151",
-      "lineIndex": 151,
+      "id": "chaupai_sahib_109",
+      "lineIndex": 109,
       "gurmukhi": "ਸ੍ਰੀ ਅਸਿਧੁਜ ਜਬ ਭਏ ਦਯਾਲਾ ॥",
       "transliteration": "sree asidhuj jab bhe dhayaalaa ||",
       "translation": "",
@@ -1817,8 +1313,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_152",
-      "lineIndex": 152,
+      "id": "chaupai_sahib_110",
+      "lineIndex": 110,
       "gurmukhi": "ਪੂਰਨ ਕਰਾ ਗ੍ਰੰਥ ਤਤਕਾਲਾ ॥",
       "transliteration": "pooran karaa gra(n)th tatakaalaa ||",
       "translation": "",
@@ -1829,8 +1325,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_153",
-      "lineIndex": 153,
+      "id": "chaupai_sahib_111",
+      "lineIndex": 111,
       "gurmukhi": "ਮਨ ਬਾਛਤ ਫਲ ਪਾਵੈ ਸੋਈ ॥",
       "transliteration": "man baachhat fal paavai soiee ||",
       "translation": "",
@@ -1841,8 +1337,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_154",
-      "lineIndex": 154,
+      "id": "chaupai_sahib_112",
+      "lineIndex": 112,
       "gurmukhi": "ਦੂਖ ਨ ਤਿਸੈ ਬਿਆਪਤ ਕੋਈ ॥੪੦੩॥",
       "transliteration": "dhookh na tisai biaapat koiee ||403||",
       "translation": "",
@@ -1853,8 +1349,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_155",
-      "lineIndex": 155,
+      "id": "chaupai_sahib_113",
+      "lineIndex": 113,
       "gurmukhi": "ਅੜਿਲ ॥",
       "transliteration": "aRil ||",
       "translation": "",
@@ -1865,8 +1361,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_156",
-      "lineIndex": 156,
+      "id": "chaupai_sahib_114",
+      "lineIndex": 114,
       "gurmukhi": "ਸੁਨੈ ਗੁੰਗ ਜੋ ਯਾਹਿ ਸੁ ਰਸਨਾ ਪਾਵਈ ॥",
       "transliteration": "sunai gu(n)g jo yaeh su rasanaa paaviee ||",
       "translation": "",
@@ -1877,8 +1373,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_157",
-      "lineIndex": 157,
+      "id": "chaupai_sahib_115",
+      "lineIndex": 115,
       "gurmukhi": "ਸੁਨੈ ਮੂੜ ਚਿਤ ਲਾਇ ਚਤੁਰਤਾ ਆਵਈ ॥",
       "transliteration": "sunai mooR chit lai chaturataa aaviee ||",
       "translation": "",
@@ -1889,8 +1385,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_158",
-      "lineIndex": 158,
+      "id": "chaupai_sahib_116",
+      "lineIndex": 116,
       "gurmukhi": "ਦੂਖ ਦਰਦ ਭੌ ਨਿਕਟ ਨ ਤਿਨ ਨਰ ਕੇ ਰਹੈ ॥",
       "transliteration": "dhookh dharadh bhau nikaT na tin nar ke rahai ||",
       "translation": "",
@@ -1901,8 +1397,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_159",
-      "lineIndex": 159,
+      "id": "chaupai_sahib_117",
+      "lineIndex": 117,
       "gurmukhi": "ਹੋ ਜੋ ਯਾ ਕੀ ਏਕ ਬਾਰ ਚੌਪਈ ਕੋ ਕਹੈ ॥੪੦੪॥",
       "transliteration": "ho jo yaa kee ek baar chauapiee ko kahai ||404||",
       "translation": "",
@@ -1913,8 +1409,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_160",
-      "lineIndex": 160,
+      "id": "chaupai_sahib_118",
+      "lineIndex": 118,
       "gurmukhi": "ਚੌਪਈ ॥",
       "transliteration": "chauapiee ||",
       "translation": "",
@@ -1925,8 +1421,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_161",
-      "lineIndex": 161,
+      "id": "chaupai_sahib_119",
+      "lineIndex": 119,
       "gurmukhi": "ਸੰਬਤ ਸਤ੍ਰਹ ਸਹਸ ਭਣਿਜੈ ॥",
       "transliteration": "sa(n)bat satreh sahas bhanijai ||",
       "translation": "",
@@ -1937,8 +1433,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_162",
-      "lineIndex": 162,
+      "id": "chaupai_sahib_120",
+      "lineIndex": 120,
       "gurmukhi": "ਅਰਧ ਸਹਸ ਫੁਨਿ ਤੀਨਿ ਕਹਿਜੈ ॥",
       "transliteration": "aradh sahas fun teen kahijai ||",
       "translation": "",
@@ -1949,8 +1445,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_163",
-      "lineIndex": 163,
+      "id": "chaupai_sahib_121",
+      "lineIndex": 121,
       "gurmukhi": "ਭਾਦ੍ਰਵ ਸੁਦੀ ਅਸਟਮੀ ਰਵਿ ਵਾਰਾ ॥",
       "transliteration": "bhaadhrav sudhee asaTamee rav vaaraa ||",
       "translation": "",
@@ -1961,8 +1457,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_164",
-      "lineIndex": 164,
+      "id": "chaupai_sahib_122",
+      "lineIndex": 122,
       "gurmukhi": "ਤੀਰ ਸਤੁਦ੍ਰਵ ਗ੍ਰੰਥ ਸੁਧਾਰਾ ॥੪੦੫॥",
       "transliteration": "teer satudhrav gra(n)th sudhaaraa ||405||",
       "translation": "",
@@ -1973,8 +1469,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_165",
-      "lineIndex": 165,
+      "id": "chaupai_sahib_123",
+      "lineIndex": 123,
       "gurmukhi": "ਇਤਿ ਸ੍ਰੀ ਚਰਿਤ੍ਰ ਪਖ੍ਯਾਨੇ ਤ੍ਰਿਯਾ ਚਰਿਤ੍ਰੇ ਮੰਤ੍ਰੀ ਭੂਪ ਸੰਬਾਦੇ ਚਾਰ ਸੌ ਪਾਂਚ ਚਰਿਤ੍ਰ ਸਮਾਪਤਮ ਸਤੁ ਸੁਭਮ ਸਤੁ ॥੪੦੫॥੭੫੫੮॥ ਅਫਜੰੂ ॥",
       "transliteration": "eit sree charitr pakhayaane tirayaa charitre ma(n)tree bhoop sa(n)baadhe chaar sau paa(n)ch charitr samaapatam sat subham sat ||405||7558|| afaja(n)oo ||",
       "translation": "",
@@ -1985,8 +1481,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_166",
-      "lineIndex": 166,
+      "id": "chaupai_sahib_124",
+      "lineIndex": 124,
       "gurmukhi": "ਸ੍ਵੈਯਾ ॥",
       "transliteration": "savaiyaa ||",
       "translation": "",
@@ -1997,8 +1493,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_167",
-      "lineIndex": 167,
+      "id": "chaupai_sahib_125",
+      "lineIndex": 125,
       "gurmukhi": "ਪਾਇ ਗਹੇ ਜਬ ਤੇ ਤੁਮਰੇ ਤਬ ਤੇ ਕੋਊ ਆਂਖ ਤਰੇ ਨਹੀ ਆਨਯੋ ॥",
       "transliteration": "pai gahe jab te tumare tab te kouoo aa(n)kh tare nahee aanayo ||",
       "translation": "",
@@ -2009,8 +1505,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_168",
-      "lineIndex": 168,
+      "id": "chaupai_sahib_126",
+      "lineIndex": 126,
       "gurmukhi": "ਰਾਮ ਰਹੀਮ ਪੁਰਾਨ ਕੁਰਾਨ ਅਨੇਕ ਕਹੈਂ ਮਤ ਏਕ ਨ ਮਾਨਯੋ ॥",
       "transliteration": "raam raheem puraan kuraan anek kahai(n) mat ek na maanayo ||",
       "translation": "",
@@ -2021,8 +1517,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_169",
-      "lineIndex": 169,
+      "id": "chaupai_sahib_127",
+      "lineIndex": 127,
       "gurmukhi": "ਸਿੰਮ੍ਰਿਤਿ ਸਾਸਤ੍ਰ ਬੇਦ ਸਭੈ ਬਹੁ ਭੇਦ ਕਹੈ ਹਮ ਏਕ ਨ ਜਾਨਯੋ ॥",
       "transliteration": "si(n)mirat saasatr bedh sabhai bahu bhedh kahai ham ek na jaanayo ||",
       "translation": "",
@@ -2033,8 +1529,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_170",
-      "lineIndex": 170,
+      "id": "chaupai_sahib_128",
+      "lineIndex": 128,
       "gurmukhi": "ਸ੍ਰੀ ਅਸਿਪਾਨ ਕ੍ਰਿਪਾ ਤੁਮਰੀ ਕਰਿ ਮੈ ਨ ਕਹਯੋ ਸਭ ਤੋਹਿ ਬਖਾਨਯੋ ॥੮੬੩॥",
       "transliteration": "sree asipaan kirapaa tumaree kar mai na kahayo sabh toh bakhaanayo ||863||",
       "translation": "",
@@ -2045,8 +1541,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_171",
-      "lineIndex": 171,
+      "id": "chaupai_sahib_129",
+      "lineIndex": 129,
       "gurmukhi": "ਦੋਹਰਾ ॥",
       "transliteration": "dhoharaa ||",
       "translation": "",
@@ -2057,8 +1553,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_172",
-      "lineIndex": 172,
+      "id": "chaupai_sahib_130",
+      "lineIndex": 130,
       "gurmukhi": "ਸਗਲ ਦੁਆਰ ਕਉ ਛਾਡਿ ਕੈ ਗਹਯੋ ਤੁਹਾਰੋ ਦੁਆਰ ॥",
       "transliteration": "sagal dhuaar kau chhaadd kai gahayo tuhaaro dhuaar ||",
       "translation": "",
@@ -2069,8 +1565,8 @@
       "hindiTransliteration": ""
     },
     {
-      "id": "chaupai_sahib_173",
-      "lineIndex": 173,
+      "id": "chaupai_sahib_131",
+      "lineIndex": 131,
       "gurmukhi": "ਬਾਹਿ ਗਹੇ ਕੀ ਲਾਜ ਅਸਿ ਗੋਬਿੰਦ ਦਾਸ ਤੁਹਾਰ ॥੮੬੪॥",
       "transliteration": "baeh gahe kee laaj as gobi(n)dh dhaas tuhaar ||864||",
       "translation": "",
@@ -2083,10 +1579,7 @@
   ],
   "enrichment": {
     "source": "BaniDB v2 Ang API",
-    "hindiFields": [
-      "hindi",
-      "hindiTransliteration"
-    ],
+    "hindiFields": ["hindi", "hindiTransliteration"],
     "matchedLines": 0,
     "unmatchedLines": 173
   }

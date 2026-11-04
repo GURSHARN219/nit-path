@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "granthId": "DASAM_GRANTH",
+  "name": "Sri Dasam Granth Sahib Ji",
+  "nameGurmukhi": "ਸ੍ਰੀ ਦਸਮ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+  "description": "The sacred scripture composed by the Tenth Guru, Sri Guru Gobind Singh Ji Maharaj",
+  "totalAngs": 1428,
+  "verified": false,
+  "banis": [
+    {
+      "id": "jaap_sahib",
+      "name": "Jaap Sahib",
+      "nameGurmukhi": "ਜਾਪੁ ਸਾਹਿਬ",
+      "startAng": 1,
+      "endAng": 10,
+      "verified": false
+    },
+    {
+      "id": "akal_ustat",
+      "name": "Akal Ustat",
+      "nameGurmukhi": "ਅਕਾਲ ਉਸਤਤਿ",
+      "startAng": 11,
+      "endAng": 38,
+      "verified": false
+    },
+    {
+      "id": "bachittar_natak",
+      "name": "Bachittar Natak",
+      "nameGurmukhi": "ਬਚਿੱਤਰ ਨਾਟਕ",
+      "startAng": 39,
+      "endAng": 73,
+      "verified": false
+    },
+    {
+      "id": "chandi_charitar_1",
+      "name": "Chandi Charitar Ukti Bilas",
+      "nameGurmukhi": "ਚੰਡੀ ਚਰਿਤ੍ਰ ਉਕਤਿ ਬਿਲਾਸ",
+      "startAng": 74,
+      "endAng": 99,
+      "verified": false
+    },
+    {
+      "id": "chandi_charitar_2",
+      "name": "Chandi Charitar II",
+      "nameGurmukhi": "ਚੰਡੀ ਚਰਿਤ੍ਰ ਦੂਜਾ",
+      "startAng": 100,
+      "endAng": 118,
+      "verified": false
+    },
+    {
+      "id": "vaar_sri_bhagauti_ji_ki",
+      "name": "Vaar Sri Bhagauti Ji Ki",
+      "nameGurmukhi": "ਵਾਰ ਸ੍ਰੀ ਭਗਉਤੀ ਜੀ ਕੀ",
+      "startAng": 119,
+      "endAng": 126,
+      "verified": false
+    },
+    {
+      "id": "gyan_prabodh",
+      "name": "Gyan Prabodh",
+      "nameGurmukhi": "ਗਿਆਨ ਪ੍ਰਬੋਧ",
+      "startAng": 127,
+      "endAng": 154,
+      "verified": false
+    },
+    {
+      "id": "chaubis_avtar",
+      "name": "Chaubis Avtar",
+      "nameGurmukhi": "ਚੌਬੀਸ ਅਵਤਾਰ",
+      "startAng": 155,
+      "endAng": 610,
+      "verified": false
+    },
+    {
+      "id": "brahma_avtar",
+      "name": "Brahma Avtar",
+      "nameGurmukhi": "ਬ੍ਰਹਮਾ ਅਵਤਾਰ",
+      "startAng": 611,
+      "endAng": 634,
+      "verified": false
+    },
+    {
+      "id": "rudra_avtar",
+      "name": "Rudra Avtar",
+      "nameGurmukhi": "ਰੁਦ੍ਰ ਅਵਤਾਰ",
+      "startAng": 635,
+      "endAng": 708,
+      "verified": false
+    },
+    {
+      "id": "shabad_hazare_patshahi_10",
+      "name": "Shabad Hazare / Shabad Patshahi 10",
+      "nameGurmukhi": "ਸ਼ਬਦ ਹਜ਼ਾਰੇ / ਸ਼ਬਦ ਪਾਤਸ਼ਾਹੀ ੧੦",
+      "startAng": 709,
+      "endAng": 711,
+      "verified": false
+    },
+    {
+      "id": "33_swayyee",
+      "name": "33 Swayyee",
+      "nameGurmukhi": "੩੩ ਸਵੱਯੇ",
+      "startAng": 712,
+      "endAng": 715,
+      "verified": false
+    },
+    {
+      "id": "khalsa_mahima",
+      "name": "Khalsa Mahima",
+      "nameGurmukhi": "ਖ਼ਾਲਸਾ ਮਹਿਮਾ",
+      "startAng": 716,
+      "endAng": 716,
+      "verified": false
+    },
+    {
+      "id": "shastar_naam_mala",
+      "name": "Shastar Naam Mala",
+      "nameGurmukhi": "ਸ਼ਸਤ੍ਰ ਨਾਮ ਮਾਲਾ",
+      "startAng": 717,
+      "endAng": 808,
+      "verified": false
+    },
+    {
+      "id": "charitropakhyan",
+      "name": "Charitropakhyan",
+      "nameGurmukhi": "ਚਰਿਤ੍ਰੋਪਾਖਿਆਨ",
+      "startAng": 809,
+      "endAng": 1385,
+      "verified": false
+    },
+    {
+      "id": "chaupai_sahib",
+      "name": "Chaupai Sahib / Kabyo Bach Benti",
+      "nameGurmukhi": "ਕਬਿਯੋ ਬਾਚ ਬੇਨਤੀ",
+      "startAng": 1386,
+      "endAng": 1388,
+      "verified": false
+    },
+    {
+      "id": "zafarnamah",
+      "name": "Zafarnamah",
+      "nameGurmukhi": "ਜ਼ਫ਼ਰਨਾਮਾ",
+      "startAng": 1389,
+      "endAng": 1393,
+      "verified": false
+    },
+    {
+      "id": "hikayats",
+      "name": "Hikayats",
+      "nameGurmukhi": "ਹਿਕਾਇਤਾਂ",
+      "startAng": 1394,
+      "endAng": 1428,
+      "verified": false
+    }
+  ]
+}
